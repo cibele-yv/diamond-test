@@ -1,1 +1,1 @@
-# diamond-test
+# DiamondKata by Cibele
